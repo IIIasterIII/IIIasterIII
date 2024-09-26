@@ -1,6 +1,3 @@
-
-
-
 ## Frontend 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=#E34F26)
