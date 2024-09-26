@@ -1,4 +1,7 @@
-## Frontend 💻
+
+
+
+## Frontend 
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=#E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue)
@@ -11,3 +14,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=#5FA04E)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=#000000)
 ![Express](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=Socket.io&logoColor=#010101)
+
+### Theory is when you know everything but nothing works.
+### Practice is when everything works, but you don't know why.
+### Programming is when you combine both, and nothing works and you don't know why.
