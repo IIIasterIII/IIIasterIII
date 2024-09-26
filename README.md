@@ -11,6 +11,3 @@
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=#5FA04E)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=#000000)
 ![Express](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=Socket.io&logoColor=#010101)
-
-
-![pexels-eberhardgross-691668](https://github.com/user-attachments/assets/5cce7281-c30f-45b6-b231-ca92f0bf9eb4)
