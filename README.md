@@ -7,65 +7,17 @@ My name is Paulo. I’m on a journey to become a full-stack web developer, with 
 ## 🚀 Core Skills and Technologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+## Frontend
+ ![HTML](https://skillicons.dev/icons?i=html) **HTML**
+ ![CSS](https://skillicons.dev/icons?i=css) **CSS**
+ ![SCSS](https://skillicons.dev/icons?i=scss) **SCSS**
+ ![JavaScript](https://skillicons.dev/icons?i=javascript) **JavaScript**
+ ![React](https://skillicons.dev/icons?i=react) **React**
+ ![Tailwind](https://skillicons.dev/icons?i=tailwind) **Tailwind**
+ ![Redux](https://skillicons.dev/icons?i=redux) **Redux**
 
-I work with a wide range of technologies:
-- **Frontend**: React, HTML, CSS, Tailwind, MUI, Bootstrap.
-- **Backend**: Node.js, Express, FastAPI, Python, Flask.
-- **Databases**: MySQL, MongoDB.
-- **Other Tools**: Firebase, Git, GitHub, Vite, Figma, VS Code.
-
----
-
-## 🧑‍💻 My Projects
-
-### 📘 Bookstore (Console Application)
-- **Description**: A simple console-based bookstore app with a C# interface.
-- **Tech**: C#, JSON serialization/deserialization.
-- **Features**: Adding, editing, and viewing book information.
-
-### 🎮 MMO RPG ER Diagram
-- **Description**: An MMO RPG model with entities like User, Character, Inventory, and Location.
-- **Tech**: ER diagrams, MySQL.
-- **Features**: Unique ID setup for inventory, skills, and parameters.
-
-### 💬 Messenger (First Project)
-- **Description**: A messaging app for chatting with friends and creating group chats.
-- **Tech**: React, Express, Socket.IO, MySQL.
-- **Features**: Real-time messaging, friend request system, and real-time friend status updates.
-
-### 📝 Advanced React Projects
-- **Description**: A tool for creating complex notes and schematics, similar to applications like Paint and GeoGebra.
-- **Tech**: React, MobX, HTML, CSS.
-- **Features**: Advanced element manipulation, such as linking boxes with lines, synchronizing element positions, and dynamically updating linked components.
-
----
-
-## 🛠️ My Current Interests and Goals
-
-- Building **full-stack applications** with a focus on **React** and **Python backend**.
-- Exploring optimization techniques (e.g., improving the performance of useEffect for asynchronous data fetching).
-- Projects involving **flexible API systems** and client-server interaction.
-- Creating **theoretical repositories** for storing various research and knowledge topics.
-  
----
-
-## 📚 Study Topics
-
-I’m also focusing on some theoretical concepts, including:
-- **Microeconomics**: Price formation, cost structures, and company activities.
-  
----
-
-## 🎯 Future Projects and Ideas
-
-- **Company System**: Developing a web application where users can join companies by entering specific information.
-- **CSS Gradients and Animations**: Improving the visual appeal of web applications.
-- **Real-Time Content Support**: Implementing mechanisms for real-time data updates.
-
----
-
-### Thanks for visiting! If you want to learn more about my projects, I’d be happy to connect!
+## Backend
+ ![Node.js](https://skillicons.dev/icons?i=nodejs) **Node.js**
+ ![Express](https://skillicons.dev/icons?i=express) **Express**
+ ![Firebase](https://skillicons.dev/icons?i=firebase) **Firebase**
+ ![MySQL](https://skillicons.dev/icons?i=mysql) **MySQL**
