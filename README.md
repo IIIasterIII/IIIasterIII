@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub profile!
 
-My name is [Your Name]. I’m on a journey to become a full-stack web developer, with hands-on experience in both front-end and back-end technologies. Here, you’ll find various projects I'm working on and plenty of code samples showcasing my skills.
+My name is Paulo. I’m on a journey to become a full-stack web developer, with hands-on experience in both front-end and back-end technologies. Here, you’ll find various projects I'm working on and plenty of code samples showcasing my skills.
 
 ---
 
