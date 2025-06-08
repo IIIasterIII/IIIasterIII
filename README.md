@@ -1,37 +1,22 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-        <h1 style="font-size: 2.8rem; color: #0f172a; margin-bottom: 0.5em; font-weight: 700; letter-spacing: 1.5px;">
-    Welcome to my GitHub profile! How are you doing?
-  </h1>
-  
-  <p style="font-size: 1.2rem; line-height: 1.6; margin-bottom: 1.2em;">
-    Nice to meet you — my name is <strong style="color: #2563eb;">Pavlo</strong>. I’m a beginner full-stack developer, and there’s still so much <span style="color: #ef4444; font-weight: 600;">new and exciting stuff</span> ahead of me. In our complex and ever-changing world, <em style="color: #059669;">knowledge is true power!</em>
-  </p>
-  
-  <p style="font-size: 1.15rem; line-height: 1.6; margin-bottom: 1.2em; color: #4b5563;">
-    One of the hardest things for me is to <strong>get out of bed in the morning</strong> and actually start doing something, instead of just standing still.
-  </p>
-  
-  <p style="font-size: 1.15rem; line-height: 1.7; margin-bottom: 1.5em;">
-    Explanations definitely help, but I believe real progress comes when you dedicate <strong style="color: #2563eb;">99% of your free time</strong> to learning what truly matters — what you need right now or what will definitely be useful in the future.
-  </p>
-  
-  <p style="font-size: 1.15rem; line-height: 1.6; margin-bottom: 1.5em; color: #4b5563;">
-    The more I learn, the clearer it becomes how much I still don’t know. And strangely enough, this realization is what keeps me moving forward.
-  </p>
-  
-  <p style="font-size: 1.25rem; font-weight: 600; color: #2563eb; margin-bottom: 1.5em;">
-    Follow me — I’d appreciate any feedback from everyone! Sending you all kindness and good vibes.
-  </p>
-  
-  <p style="font-size: 1.1rem; margin-bottom: 2em; color: #6b7280;">
-    Here are my contacts if you want to get in touch.
-  </p>
-  
-  <p style="font-size: 1.1rem; font-style: italic; color: #374151;">
-    Goodbye! Wishing you a great day or a peaceful night!
-  </p>
+      # Welcome to my GitHub profile! How are you doing?
+
+Nice to meet you — my name is **Pavlo**. I’m a beginner full-stack developer, and there’s still so much **new and exciting stuff** ahead of me. In our complex and ever-changing world, *knowledge is true power!*
+
+One of the hardest things for me is to **get out of bed in the morning** and actually start doing something, instead of just standing still.
+
+Explanations definitely help, but I believe real progress comes when you dedicate **99% of your free time** to learning what truly matters — what you need right now or what will definitely be useful in the future.
+
+The more I learn, the clearer it becomes how much I still don’t know. And strangely enough, this realization is what keeps me moving forward.
+
+Follow me — I’d appreciate any feedback from everyone! Sending you all kindness and good vibes.
+
+Here are my contacts if you want to get in touch.
+
+Goodbye! Wishing you a great day or a peaceful night!
+
     </td>
     <td valign="top">
     <a href="https://x.com/sollvart/status/1883578542866493691?s=46" target="_blank">
@@ -39,7 +24,7 @@
     </a>
     </td>
   </tr>
-</table>
+  </table>
 
 # My Tech Stack
 
