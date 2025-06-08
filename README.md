@@ -29,7 +29,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 
-## 🟦 Frontend
+##  <img src="https://static-00.iconduck.com/assets.00/globe-with-meridians-emoji-2048x2048-cai4twr6.png" width="25" alt="Frontend emoji" /> Frontend
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -43,18 +44,15 @@
 ![MobX](https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 
-## 🟥 Backend
+##  <img src="https://images.icon-icons.com/1865/PNG/512/servers_119542.png" width="35" alt="Server emoji" /> Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![Razor Pages](https://img.shields.io/badge/-Razor_Pages-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge)
 
-## 🟩 Databases
+## <img src="https://icons.veryicon.com/png/o/miscellaneous/utility/database-44.png" width="35" alt="Database emoji" /> Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
-
----
