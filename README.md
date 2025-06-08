@@ -12,9 +12,9 @@
       <p>Here are my contacts if you want to get in touch.</p>
       <p>Goodbye! Wishing you a great day or a peaceful night!</p>
 </td>
-    <td valign="top">
+    <td valign="center">
     <a href="https://x.com/sollvart/status/1883578542866493691?s=46" target="_blank">
-        <img src="https://i.redd.it/xxig1pyq8efe1.jpeg" alt="Photo by @sollvart" width="500"/>
+        <img src="https://i.redd.it/xxig1pyq8efe1.jpeg" alt="Photo by @sollvart" width="550"/>
     </a>
     </td>
   </tr>
