@@ -9,7 +9,7 @@
         <p>Explanations definitely help, but I believe real progress comes when you dedicate <strong>99% of your free time</strong> to learning what truly matters — what you need right now or what will definitely be useful in the future.</p>
       <p>The more I learn, the clearer it becomes how much I still don’t know. And strangely enough, this realization is what keeps me moving forward.</p>
       <p>Follow me — I’d appreciate any feedback from everyone! Sending you all kindness and good vibes.</p>
-      <p>Here are my contacts if you want to get in touch.</p>
+      <p>Here are my contacts if you want to get in touch. <strong> Coming soon...</strong> </p>
       <p>Goodbye! Wishing you a great day or a peaceful night!</p>
 </td>
     <td valign="center">
